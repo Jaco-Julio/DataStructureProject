@@ -16,7 +16,7 @@ It's to develop an algorithm that simulates an AVL balancing tree. Also, to deve
 ## Files
 
 | File | Description |
-------------------------------------------------------------------------
+| :-----: | :----------: |
 | D3 | Library for visualization developed in JavaScript |  
 | TreeAVL.c | Module for AVL tree functions developed in C |  
 | TreeAVL.h | Function prototypes |  
