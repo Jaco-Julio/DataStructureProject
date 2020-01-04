@@ -1,21 +1,23 @@
 
-# Algoritmo de árvore de balanceamento AVL
+# AVL Balancing Tree Algorithm
 
-Projeto desenvolvido para disciplina de Estrutura de Dados - UFF/2018  
-Desenvolvido por: Jacó Julio, Sandro Bonadia e Rolnado Machado  
+Project developed for Data Structure discipline - UFF / 2018  
+Developed by: Jacó Julio, Sandro Bonadia and Rolnado Machado  
 
-## Descrição do Projeto
+## Project description
 
-Desenvolver um algoritmo que simule uma árvore de balanceamento AVL. Desenvolver também uma forma de visualização da árvore AVL.
+It's to develop an algorithm that simulates an AVL balancing tree. Also, to develop a form of visualization of the AVL tree.
 
-## Pré-requisito
+## Prerequisite
 
-* Linguagens: C e JavaScript
+* Languages: C and JavaScript
 
 
-## Arquivos
+## Files
 
-| D3 | Biblioteca para visualização desenvolvida em JavaScript |  
-| TreeAVL.c | Módulo para as funções da árvore AVL desenvolvido em C |  
-| TreeAVL.h | Protótipos das funções |  
-| main.c | Arquivo principal que chama as funções e executa o algoritmo |  
+| File | Description |
+------------------------------------------------------------------------
+| D3 | Library for visualization developed in JavaScript |  
+| TreeAVL.c | Module for AVL tree functions developed in C |  
+| TreeAVL.h | Function prototypes |  
+| main.c | Main file that calls the functions and executes the algorithm |  
